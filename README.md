@@ -49,7 +49,7 @@ A robust, comprehensive system for real-time detection and analysis of Denial-of
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/dos-detection-system.git
+git clone https://github.com/ROHITCRAFTSYT/dos-detection-system.git
 cd dos-detection-system
 ```
 
